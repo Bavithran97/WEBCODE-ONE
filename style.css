@@ -1,0 +1,13 @@
+.brewery-name{
+    font-weight: bold;
+    text-align:center;
+}
+body {
+  background-image: url('https://cdnimg.webstaurantstore.com/images/articles/587/blog-brewery-header.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+span{
+    font-weight: bold;
+}
